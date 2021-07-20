@@ -1,0 +1,167 @@
+/* your styles go here */
+.text-primary a,
+.card a {
+  color: #01579b !important;
+}
+
+/* Logo */
+.navbar-brand {
+  width: 150px;
+}
+
+.hero-bg {
+  background: #eee;
+}
+
+/* Subtitle */
+p.subtitle {
+  letter-spacing: 0.1em;
+}
+
+/* Sponsor logos */
+.sponsor-logos img {
+  max-width: 100%;
+}
+
+/* Buttons */
+.btn {
+  letter-spacing: 0.1em !important;
+}
+
+.btn-add {
+  margin-top: 20px;
+}
+
+/* Pagination */
+.page-item.active .page-link {
+  background-color: #01579b;
+  border-color: #01579b;
+}
+
+.page-link {
+  color: #01579b;
+}
+
+/* Ribbon */
+.ribbon-primary {
+  letter-spacing: 0.1em !important;
+}
+
+/* Hotel card */
+.hotel-card {
+  /* min-height: 190px; */
+  max-width: auto;
+}
+
+.hotel-card-request-block {
+  min-height: 140px;
+  max-width: auto;
+}
+
+/* Top nav */
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: 0.75rem;
+  padding-left: 0.75rem;
+}
+
+.navbar .nav-link {
+  font-size: 1rem !important;
+  font-weight: 600 !important;
+}
+
+.user-icon {
+  font-size: 18px;
+  vertical-align: middle;
+}
+
+.navbar-light .navbar-nav .nav-link,
+.nav-item,
+.navbar-nav,
+nav .user {
+  font-weight: 400 !important;
+  color: #212529;
+  font-size: 14px !important;
+}
+
+/* Links */
+a:hover {
+  text-decoration: none;
+}
+
+/* Font */
+.h4,
+h4 {
+  font-weight: 400;
+}
+
+.h5,
+h5 {
+  font-size: 1.125rem;
+}
+
+.h3,
+h3 {
+  font-weight: 600;
+  font-size: 1.25rem;
+}
+
+/* Round button */
+.btn-circle {
+  border-radius: 10rem;
+  width: 55px;
+  height: 55px;
+}
+
+/* Search bar */
+.search-bar {
+  max-width: 996px;
+  transform: translateY(40px);
+}
+
+.search-bar input,
+.search-bar .filter-option {
+  font-size: 0.9rem !important;
+  color: #717171;
+  border: none;
+}
+
+.search-bar input,
+.search-bar .filter-option {
+  letter-spacing: 0;
+}
+
+.search-label {
+  font-weight: 800 !important;
+  letter-spacing: 0.04em !important;
+  font-size: 12px !important;
+  margin-top: -30px;
+  /* padding-left: 12px; */
+  padding-top: 20px;
+  color: rgb(34, 34, 34) !important;
+  z-index: 10;
+}
+
+.search-bar .form-control,
+.search-bar label {
+  padding-left: 20px;
+}
+
+.search-bar .filter-option-inner-inner {
+  padding-left: 8px;
+}
+
+.form-control:focus {
+  outline: none !important;
+  border: none;
+  box-shadow: none;
+}
+
+/* Progress bar */
+.progress-bar {
+  background-color: #01579b;
+}
+
+/* Datepicker */
+/* .datepicker-container-left .inline-wrapper {
+  left: -130%;
+} */
